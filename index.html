@@ -3,12 +3,43 @@ layout: post
 title: Blogging Like a Hacker
 ---
 <!DOCTYPE html>
-<head>
-<script src="//code.jquery.com/jquery-2.1.0.min.js"></script>
-</head>
-<html>
-<body>
-{% include header.html %}
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="js/jquery-2.1.1.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+
+	<body role="document">
+		{% include header.html %}
+		<div class="container theme-showcase" role="main">
+			
+			<div class="col-md-4 text-center">
+				<h2>
+					<img src="images/figure.png" alt="figure" class="img-circle figure">
+				</h2>
+			</div>
+			<div class="col-md-8">
+				<h2>
+					Everything is implementable.
+				</h2>
+				<p>
+					Okay, not really.
+				</p>
+				<p>
+					For a web application, what matters is all about if there is already a library to use. Ocationally the performace is also a problem if complex visual effects are used.
+				</p>
+				<p>
+					This site is actually somewhere to store the tricks I camed up with(copied from Internet). But I will be happy if you are interested in my tricks and wanted to get a job for me :>
+				</p>
+				<button type="button" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-file" aria-hidden="true"></span>&nbsp;&nbsp;View my Resume</button>
+			</div>
+
+		</div>
+
+	</body>
 </html>
