@@ -1,0 +1,5 @@
+---
+date: 2015-01-10 02:32:00 -0800
+---
+
+This site is still under development. I have tweaked the file structure to make the URL cleaner. Some other features to make the blog look better will also be added soon. 
