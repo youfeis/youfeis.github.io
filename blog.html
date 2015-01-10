@@ -14,7 +14,25 @@
 
 <body role="document">
 	{% include header.html %}
-	{{site.posts}}
+	<div class="container theme-showcase" role="main">
+		<div class="col-md-4 text-center">
+			<h2>
+				<img src="images/figure.png" alt="figure" class="img-circle figure">
+			</h2>
+		</div>
+
+		<div class="col-md-8">
+			<ul>
+			  {% for post in site.posts %}
+			    <li>
+			      <a href="{{ post.url }}">{{ post.title }}</a>
+			      <div>{{ post.date }}</div>
+			      <div>{{ post.excerpt }}</div>
+			    </li>
+			  {% endfor %}
+			</ul>
+		</div>
+	</div>
 </body>
 
 </html>
