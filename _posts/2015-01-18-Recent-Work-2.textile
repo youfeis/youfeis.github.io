@@ -3,8 +3,6 @@ date: 2015-01-18 23:29:00 -0800
 ---
 
 I think I need to strictly follow the Tuesday & Friday schedule for posting these blogs. Stacking them until the very end of the deadline only because I can finish them on time is not a good idea at all.
-
 The bad news is, I have to go back and work on that project. One is an AFK timer, resetting the page to index when there is no user input for some time. The other one is a custom scroller, to support the old device that cannot benefit from touch screen scrolling.
 Both of them is easy. However I failed decoupling so many logic of this project, and there is no time for me to refactor them.
-
 This night will be struggling with my mindless code. After that, I have also to take care of some matlab homework. This gonna be a long night.
