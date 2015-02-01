@@ -1,0 +1,7 @@
+---
+date: 2015-02-01 00:08:00 -0800
+---
+How many times I have said to update this blog? I have no idea. But now there are already too many posts to show in one page.
+Probably I am going to add a pager, which allow me only show some abstract in the overview page. Then make some styling in the content view page.
+If I got the time, I can apply some little ajax tricks to make the page more fun.
+I will go right to sleep when I gathered all the gears for snowboarding. Hopefully I won't get to tired tomorrow that I could miss the lecture Monday morning. There is a in-class writing!
