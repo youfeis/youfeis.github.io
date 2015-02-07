@@ -1,0 +1,9 @@
+---
+date: 2015-02-06 21:06:00 -0800
+---
+Two weeks ago, someone came up to me and asked that if I can help him out with his forum software. The forum was used for an on-line game that we are both playing.
+It had a basic requirement which was to automatically assign a user to a specific group according to the user's in-game API key. This forum was basic. However, the person asked me about this forum refused my offer of building the site for him.
+He only wanted me to teach him how he should do everything, step by step. He was in lack of English and basic computer skills. Which means that was nearly impossible.
+After a few days, finally, he was realized that he had to let someone do it. But this time, he was stuck into a commercial forum software. No matter how detailed I explained the case, he was not getting persuaded.
+After a whole night struggling this, he decided to give that up. It was only because that another person is telling him that commercial forum software was not useful.
+Sadly I cannot keep this cooperation like that. I regret wasting hours like that without basic trust in a voluntary job.
