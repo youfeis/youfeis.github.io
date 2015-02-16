@@ -1,0 +1,6 @@
+---
+date: 2015-02-15 23:11:00 -0800
+---
+Sometimes I just considering things more complex than it should be. I have been working on a MATLAB project which is to find cigarette butts on ground.
+First I thought is to detect approximated rectangles in the image, which leads me into some graduate level research papers. But actually what I needed is only to mask out the darker backgrounds by colors.
+Hopefully I won't finish this too late by tonight.
