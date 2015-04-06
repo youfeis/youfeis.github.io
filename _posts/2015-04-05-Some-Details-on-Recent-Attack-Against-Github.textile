@@ -1,0 +1,5 @@
+---
+date: 2015-04-05 22:35:00 -0800
+---
+After the DDoS attack, Github starts to return a message. "malicious javascript detected on this domain". Now the users will be using searching engine to see what happened.
+The reason GFW starts this attack is because some VPN software are hosted on Github. China government tried to use attackers to force the software being removed.
