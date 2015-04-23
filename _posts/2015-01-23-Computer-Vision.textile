@@ -1,7 +1,0 @@
----
-date: 2015-01-23 22:37:00 -0800
----
-The computing vision is something really hard to deal with. The work is essentially difficult in 2D cases. To distinguish objects in million of pixel values, a lot of math tools need to be used.
-This simplest work to find out cigarette butts is even a great challenge. The edge detection is not working the trivial way we prefer. We have to somehow alter the image to get perfect edges.
-Then next step we can have the corners detected to be the signature for the cigarette butts. 
-Hopefully I can at least find out some butts in the easiest cases.

@@ -1,6 +1,0 @@
----
-date: 2015-02-21 17:33:00 -0800
----
-Mobile devices that have a touch screen can be a problem if you want to implement something like a interactive menu. The hover effect tends to be sticky when a user taps on screen.
-This will affect the javascript code toggling classes on click() events. To prevent the default hover effect, there is no common trivial solution. The best I can do so far, is to add a class, say ".no-touch", to the element with hover effect. And also include this class in the css selector. While in js code, when it detects the device has a touch screen, remove the ".no-touch" class.
-This way, the hover effect won't be shown in mobile devices anymore.

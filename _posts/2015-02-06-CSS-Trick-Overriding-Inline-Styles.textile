@@ -1,7 +1,0 @@
----
-date: 2015-02-06 21:49:00 -0800
----
-Sometimes I have to work based on some previous javascript code; I am not allowed to modify the js code there.
-Although this is a terrible hack that breaks the style cascading structure, it should work fine this time. I am possible the last people to work on this project.
-I have to figure out a way to display code here properly yet. But simply explanation is enough to talk about this little trick.
-Just use a combination of element selector and [attribute] selector, where the attribute name is style. This way, even it is flagged !important inline, this attribute can still be overridden. 

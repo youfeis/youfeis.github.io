@@ -1,6 +1,0 @@
----
-date: 2015-02-21 19:33:00 -0800
----
-I have been using Coursera for a few months. It provides various online courses to public with decent qualities. I'd say, wayyyy better than SFU remote education courses.
-I strongly recommend the Algorithms: Design and Analysis, Part 1 and part 2 held by Stanford University if you want to have good understanding in algorithms. The required SFU courses are not sufficient if you want to be a decent coder.
-Going through these 2 courses will definitely help you with the fundamental in computing science. 

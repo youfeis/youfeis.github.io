@@ -1,6 +1,0 @@
----
-date: 2015-03-01 23:40:00 -0800
----
-Chrome has a fixed minimal font size, which cannot be altered by CSS property. Recently, chrome also cancelled a property that has been widely misused.
--webkit-text-size-adjust is no longer available because this will seriously affect mobile viewing if it is been set none.
-So far, a workaround is to use -webkit-transform:scale. But it is still problematic.

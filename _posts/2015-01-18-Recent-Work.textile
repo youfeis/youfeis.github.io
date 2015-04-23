@@ -1,7 +1,0 @@
----
-date: 2015-01-18 21:26:00 -0800
----
-
-Recently, I have been spending countless hours on a project, which is to convert a macromedia flash movie clip into an interactive HTML5 website. Even if the Greensock plug-in has been already ported from Flash to HTML5, moving many small parts of element around is not really what HTML5 good at.
-Considering creating an automatic script to generate the target code may take even longer time, I had to use brute force to position those small pieces one by one. What an awful task. 
-Finally, I can say goodbye to this project very soon. Keep my finger crossed - there is no bug left in it.

@@ -1,6 +1,0 @@
----
-date: 2015-01-09 23:51:00 -0800
----
-
-I can't believe that I started to maintain this blog until now, only because of this is my course requirement. In fact, I have already set up this github pages half a year ago, trying to blog the CSS and JS tricks that I have done during my part-time job. It seems that I will never start actually doing this unless some outsource force is urging me. 
-The best part is, I am also procrastinating this to the very end of the today, when I had plenty time doing this in the afternoon. Now I am going to submit this regardless the formatting, which will be taken care of later.
